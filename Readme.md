@@ -1,3 +1,4 @@
+<a id="English"></a>
 **English** | [简体中文](#简体中文)
 # Alferd Spritesheet Unpacker with some tweaks
 
@@ -30,7 +31,7 @@ I also kept the original [`Readme`](.\README(Original).md) so you can read it.
 ---
 
 <a id="简体中文"></a>
-[English](#) | **简体中文**
+[English](#English) | **简体中文**
 # Alferd Spritesheet Unpacker with some tweaks
 
 ### 注意：本项目基于 GitHub 上的 [`Alferd-Spritesheet-Unpacker`](https://github.com/ForkandBeard/Alferd-Spritesheet-Unpacker/)。所有原始代码的版权均归原作者 [`ForkandBeard`](https://github.com/ForkandBeard)所有。更多许可信息，请参阅 [`LICENSE`](.\LICENSE)。
