@@ -2,7 +2,7 @@
 **English** | [简体中文](#简体中文)
 # Alferd Spritesheet Unpacker with some tweaks
 
-### NOTICE: This project is based on [`Alferd-Spritesheet-Unpacker`](https://github.com/ForkandBeard/Alferd-Spritesheet-Unpacker/) on GitHub. Copyrights of all original codes belongs to original author [`ForkandBeard`](https://github.com/ForkandBeard). For more licensing information, please refer to [`LICENSE`](.\LICENSE).
+### NOTICE: This project is based on [`Alferd-Spritesheet-Unpacker`](https://github.com/ForkandBeard/Alferd-Spritesheet-Unpacker/) on GitHub. Copyrights of all original codes belongs to original author [`ForkandBeard`](https://github.com/ForkandBeard). For more licensing information, please refer to [`LICENSE`](LICENSE).
 
 ---
 
@@ -25,8 +25,8 @@ I only added a localization pack for Simplified Chinese for now and is planning 
 
 ---
 
-As the tweaks are all made directly from the original code, this project has inherited the same license as [`LICENSE`](.\LICENSE).
-I also kept the original [`Readme`](.\README(Original).md) so you can read it.
+As the tweaks are all made directly from the original code, this project has inherited the same license as [`LICENSE`](LICENSE).
+I also kept the original [`Readme`](README(Original).md) so you can read it.
 
 ---
 
@@ -34,7 +34,7 @@ I also kept the original [`Readme`](.\README(Original).md) so you can read it.
 [English](#English) | **简体中文**
 # Alferd Spritesheet Unpacker with some tweaks
 
-### 注意：本项目基于 GitHub 上的 [`Alferd-Spritesheet-Unpacker`](https://github.com/ForkandBeard/Alferd-Spritesheet-Unpacker/)。所有原始代码的版权均归原作者 [`ForkandBeard`](https://github.com/ForkandBeard)所有。更多许可信息，请参阅 [`LICENSE`](.\LICENSE)。
+### 注意：本项目基于 GitHub 上的 [`Alferd-Spritesheet-Unpacker`](https://github.com/ForkandBeard/Alferd-Spritesheet-Unpacker/)。所有原始代码的版权均归原作者 [`ForkandBeard`](https://github.com/ForkandBeard)所有。更多许可信息，请参阅 [`LICENSE`](LICENSE)。
 
 ---
 
@@ -57,5 +57,5 @@ ASU 是一个年代久远但实用的工具，我已经用了相当一段时间�
 
 ---
 
-由于这些调整都是直接在原始代码上进行的，因此本项目继承了与 [`LICENSE`](.\LICENSE) 相同的许可证。
-我还保留了原始的 [`Readme`](.\README(Original).md) 供使用者阅读。
+由于这些调整都是直接在原始代码上进行的，因此本项目继承了与 [`LICENSE`](LICENSE) 相同的许可证。
+我还保留了原始的 [`Readme`](README(Original).md) 供使用者阅读。
