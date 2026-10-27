@@ -23,5 +23,7 @@ Release/
 packages/
 *.nupkg
 
+readme.zh.md
+
 # 保留随项目分发的第三方工具
 !ASU/third_party_image_converter/nconvert.exe
