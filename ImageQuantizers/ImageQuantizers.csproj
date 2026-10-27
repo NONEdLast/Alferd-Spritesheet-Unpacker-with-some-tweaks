@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ImageQuantizers</RootNamespace>
+    <AssemblyName>ImageQuantizers</AssemblyName>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Deterministic>false</Deterministic>
+  </PropertyGroup>
+
+</Project>

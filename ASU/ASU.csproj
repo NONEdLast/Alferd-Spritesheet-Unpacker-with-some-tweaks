@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ASU</RootNamespace>
+    <AssemblyName>ASU</AssemblyName>
+    <ApplicationIcon>icons\images.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Properties\Settings.Designer.cs" />
+    <None Remove="Properties\Settings.settings" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="App.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetName>ASU.dll.config</TargetName>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="READ_ME.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="third_party_image_converter\**">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ForkandBeard.Logic\ForkandBeard.Logic.csproj" />
+    <ProjectReference Include="..\ForkandBeard.Util\ForkandBeard.Util.csproj" />
+    <ProjectReference Include="..\ImageQuantizers\ImageQuantizers.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ILGPU" Version="1.5.3" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="10.0.12" />
+  </ItemGroup>
+
+  <Target Name="CreateOutputDirectory" AfterTargets="Build">
+    <MakeDir Directories="$(OutputPath)output" />
+  </Target>
+
+</Project>

@@ -1,0 +1,27 @@
+# SVN
+*.svn-base
+.svn/
+
+# 构建产物
+bin/
+obj/
+Debug/
+Release/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio / Rider / VS Code
+.vs/
+*.user
+*.suo
+*.userprefs
+.idea/
+*.VisualState.xml
+
+# NuGet
+packages/
+*.nupkg
+
+# 保留随项目分发的第三方工具
+!ASU/third_party_image_converter/nconvert.exe

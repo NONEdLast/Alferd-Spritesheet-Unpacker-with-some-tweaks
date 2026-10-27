@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ForkandBeard.Util</RootNamespace>
+    <AssemblyName>ForkandBeard.Util</AssemblyName>
+  </PropertyGroup>
+
+</Project>

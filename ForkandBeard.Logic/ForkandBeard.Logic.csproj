@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ForkandBeard.Logic</RootNamespace>
+    <AssemblyName>ForkandBeard.Logic</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ForkandBeard.Util\ForkandBeard.Util.csproj" />
+  </ItemGroup>
+
+</Project>
